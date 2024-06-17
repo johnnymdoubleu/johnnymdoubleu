@@ -1,8 +1,7 @@
-## about me 
+## Hi 👋, I'm Johnny MyungWon Lee
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnnymdoubleu&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h1 align="center">Hi 👋, I'm Johnny MyungWon Lee</h1>
 <h3 align="center">A Doctoral Resreacher in Statistics @ the University of Edinburgh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnymdoubleu&label=Profile%20views&color=0e75b6&style=flat" alt="johnnymdoubleu" /> </p>
