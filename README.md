@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=r,py,matlab,tensorflow,sklearn,selenium,regex,js,html,css,react,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,py,latex,matlab,tensorflow,sklearn,selenium,regex,js,html,css,react)](https://skillicons.dev)
 
 <h3 align="left">My Environment:</h3>
 
