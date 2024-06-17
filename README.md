@@ -9,7 +9,7 @@
 
 <h3 align="left">My Environment:</h3>
 
-[![My Setup](https://skillicons.dev/icons?i=windows,vscode,atom)](https://skillicons.dev)
+[![My Setup](https://skillicons.dev/icons?i=windows,ubuntu,vscode,atom)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
