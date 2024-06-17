@@ -21,5 +21,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/johnnymwlee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="johnnymwlee" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnymdoubleu&show_icons=true&locale=en" alt="johnnymdoubleu" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymdoubleu&card_width=400" alt="johnnymdoubleu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymdoubleu&card_width=400" alt="johnnymdoubleu" /></p>
