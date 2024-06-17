@@ -4,9 +4,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymdoubleu&card_width=400" alt="johnnymdoubleu" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=r,py,matlab,tensorflow,sklearn,selenium,regex,js,html,css,react,latex)](https://skillicons.dev)
 
 <h3 align="left">My Environment:</h3>
+
 [![My Setup](https://skillicons.dev/icons?i=windows,vscode,atom)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
