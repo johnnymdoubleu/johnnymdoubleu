@@ -22,4 +22,6 @@
 
 - 📫 How to reach me: **<a href="mailto:johnny.myungwon.lee@ed.ac.uk">Send email</a>** | **[My Webpage](https://www.maths.ed.ac.uk/~s1687781/)**
 
+<!---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnnymdoubleu&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
