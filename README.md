@@ -2,7 +2,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnnymdoubleu&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymdoubleu&card_width=400" alt="johnnymdoubleu" /></p>
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnymdoubleu&theme=zenburn" width="500">
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnymdoubleu&theme=zenburn" width="520">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnnymdoubleu&theme=zenburn&utcOffset=0" width="250"></p>
 
 <h3 align="left">Languages and Tools:</h3>
