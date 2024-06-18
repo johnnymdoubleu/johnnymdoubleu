@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Johnny MyungWon Lee <img src="https://komarev.com/ghpvc/?username=johnnymdoubleu&label=Profile%20views&color=0e75b6&style=flat" alt="johnnymdoubleu" /> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnnymdoubleu&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnymdoubleu&card_width=400" alt="johnnymdoubleu" /></p>
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnymdoubleu&theme=zenburn" width="510">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnnymdoubleu&theme=zenburn&utcOffset=0" width="250"></p>
 
@@ -23,3 +21,5 @@
 </p>
 
 - 📫 How to reach me: **<a href="mailto:johnny.myungwon.lee@ed.ac.uk">Send email</a>** | **[My Webpage](https://www.maths.ed.ac.uk/~s1687781/)**
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnnymdoubleu&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
