@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Johnny MyungWon Lee <img src="https://komarev.com/ghpvc/?username=johnnymdoubleu&label=Profile%20views&color=0e75b6&style=flat" alt="johnnymdoubleu" /> 
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnymdoubleu&theme=zenburn" width="510">
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnnymdoubleu&theme=zenburn" width="515">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johnnymdoubleu&theme=zenburn&utcOffset=0" width="250"></p>
 
 <h3 align="left">Languages and Tools:</h3>
