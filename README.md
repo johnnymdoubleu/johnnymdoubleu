@@ -6,7 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=r,py,latex,matlab,pytorch,tensorflow,sklearn,astro,tailwind,js,html,css,selenium,regex)](https://skillicons.dev)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=r,py,latex,matlab,pytorch,tensorflow,sklearn,astro,tailwind,js,html,css,selenium,regex&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=r,py,latex,matlab,pytorch,tensorflow,sklearn,astro,tailwind,js,html,css,selenium,regex&theme=dark)
 <h3 align="left">My Environment:</h3>
 
 [![My Setup](https://skillicons.dev/icons?i=windows,ubuntu,vscode,atom)](https://skillicons.dev)
