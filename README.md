@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=r,py,latex,stan,pytorch,tensorflow,sklearn,astro,tailwind,js,html,css,selenium,regex&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=r,py,latex,matlab,pytorch,tensorflow,sklearn,astro,tailwind,js,html,css,selenium,regex&theme=dark)
 <h3 align="left">My Environment:</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,vscode,atom&theme=dark)
