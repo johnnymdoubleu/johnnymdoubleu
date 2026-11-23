@@ -8,7 +8,7 @@
 -->
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=r,py,latex,stan,pytorch,jax,sklearn,astro,tailwind,ts,js,npm,html,css,selenium,regex&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=r,py,latex,stan,pytorch,jax,astro,tailwind,ts,js,npm,html,css,selenium,regex&theme=dark)
 <h3 align="left">My Environments:</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,vscode,atom&theme=dark)
